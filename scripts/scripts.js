@@ -16,7 +16,7 @@ import { setLibs, decorateArea } from './utils.js';
 const STYLES = '';
 
 // Use 'https://milo.adobe.com/libs' if you cannot map '/libs' to milo's origin.
-const LIBS = '/libs';
+const LIBS = 'https://milo.adobe.com/libs';
 
 // Add any config options.
 const CONFIG = {
